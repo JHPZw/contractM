@@ -1,5 +1,5 @@
 module.exports = {
-    base: "http://wvy5hx.natappfree.cc"
+    base: "服务器域名"
 };
 
 
